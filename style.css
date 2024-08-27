@@ -54,12 +54,6 @@ body {
     color: #ffffff;
 }
 
-header {
-    background-color: #1e1e1e;
-    padding: 10px;
-    text-align: center;
-}
-
 header h1 {
     margin: 0;
     font-size: 2em;
